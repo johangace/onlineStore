@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function accountPage() {\n  return;\n}","map":{"version":3,"sources":["/Users/johangace/Desktop/sick-fits/frontend/pages/account.js"],"names":["accountPage"],"mappings":"AAAA,eAAe,SAASA,WAAT,GAAuB;AACpC;AACD","sourcesContent":["export default function accountPage() {\n  return;\n}\n"]},"metadata":{},"sourceType":"module"}
